@@ -7,7 +7,7 @@ const font = Nunito({
 });
 
 export const metadata = {
-  title: "Airbnb",
+  title: "Airbnb Clone",
   description: "Airbnb Clone",
 };
 
